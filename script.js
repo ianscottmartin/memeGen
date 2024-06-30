@@ -1,4 +1,4 @@
-const UNSPLASH_API_KEY = 'PF84305TzsrYmNhbeQ_eFxAuK05xPylX0zC44pz__4U'; // Replace with your Unsplash API key
+
 
 document.getElementById('randomImageButton').addEventListener('click', function () {
     fetchRandomImage().then(randomImageURL => {
